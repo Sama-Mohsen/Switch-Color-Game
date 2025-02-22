@@ -42,6 +42,3 @@ g++ main.cpp -o color_switch -lGL -lGLU -lglut -lirrKlang
 - If you experience issues with *irrKlang*, try commenting out sound-related lines.
 - Ensure all dependencies are properly installed before running the application.
 
-### Repository
-Check out the full version of the project at: [https://github.com/Sama-Mohsen/Color-Switch.git](https://github.com/Sama-Mohsen/Color-Switch.git)
-
