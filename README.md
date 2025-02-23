@@ -1,4 +1,4 @@
-## Color Switch OpenGL Game
+## Switch Color OpenGL Game
 
 ### Overview
 This project is an OpenGL-based **2D Color Switch game** that combines interactive gameplay mechanics with visually appealing graphics. It incorporates OpenGL rendering techniques along with sound integration using the *irrKlang* audio engine.
